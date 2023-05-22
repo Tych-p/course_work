@@ -1,0 +1,36 @@
+.company-wrapper {
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    background-color: gray;
+}
+
+details {
+    display: block;  /* так как в браузерах, не поддерживающих <details>, этот тег строчный */
+    overflow: hidden;
+    border: 1px solid #f1f1f1;
+    margin-top: 20px;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, .2);
+
+}
+
+summary {
+    font-size: 23px;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+details details {
+    margin-left: 1em;
+    margin: 20px;
+    padding-left: 20px;
+    background-color: #f3f3ff;
+}
+details details p {
+    padding-left: 1em;
+}
+p span {
+    font-weight: 600;
+}
+
+

@@ -1,0 +1,20 @@
+[02/Apr/2023:13:24:31] (I): WordPress Instance Info:
+[02/Apr/2023:13:24:31] (I): Home URL : http://wordpress
+[02/Apr/2023:13:24:31] (I): Site URL : http://wordpress
+[02/Apr/2023:13:24:31] (I): WordPress Version : 6.2
+[02/Apr/2023:13:24:31] (I): Onboarding Version : 1.1.37
+[02/Apr/2023:13:24:31] (I): Multisite : No
+[02/Apr/2023:13:24:31] (I): Server Info : Apache
+[02/Apr/2023:13:24:31] (I): PHP Version : 7.4.30
+[02/Apr/2023:13:24:31] (I): HTTPS : No
+[02/Apr/2023:13:24:31] (I): PHP Max Execution Time : 60
+[02/Apr/2023:13:24:31] (I): PHP Max Input Vars : 10000
+[02/Apr/2023:13:24:31] (I): Max Upload Size : 52428800
+[02/Apr/2023:13:24:31] (I): Plugins:
+[02/Apr/2023:13:24:31] (I): [PLUGIN] Kirki Customizer Framework : v4.1.1 (David Vongries)
+[02/Apr/2023:13:24:31] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.4 (ThemeIsle)
+[02/Apr/2023:13:24:31] (I): [PLUGIN] Templates Patterns Collection : v1.1.37 (ThemeIsle)
+[02/Apr/2023:13:24:31] (I): [PLUGIN] WooCommerce : v7.5.1 (Automattic)
+[02/Apr/2023:13:24:31] (P): Installing optimole-wp.
+[02/Apr/2023:13:24:34] (P): Activating optimole-wp.
+[02/Apr/2023:13:24:35] (S): Installed and activated plugins.
